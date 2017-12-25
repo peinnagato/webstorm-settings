@@ -1,12 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="SearchService" type="JavaScript" />
       <mapping pattern="Counter" type="JavaScript" />
-      <mapping pattern="CounterControl.js" type="PLAIN_TEXT" />
-      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
+      <mapping pattern="SearchService" type="JavaScript" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
