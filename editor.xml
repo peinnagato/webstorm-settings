@@ -1,7 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Operator Mono Book" />
-    <option name="FONT_SCALE" value="1.0833334" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SCALE" value="1.25" />
     <option name="LINE_SPACING" value="1.4" />
     <option name="USE_LIGATURES" value="true" />
   </component>
@@ -27,5 +27,9 @@
     </option>
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
